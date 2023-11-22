@@ -1,6 +1,6 @@
 # vaiscan-box-static-ai
 
-used moduls in ai model
+used moduls
   - tensorflow 2.0 (keras)
   - sklearn
   - pandas
