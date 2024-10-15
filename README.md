@@ -2,10 +2,12 @@
 
 
 used moduls
-  - tensorflow 2.0 (keras)
+  - tensorflow 2.0 (Keras)
   - sklearn
   - pandas
   - numpy
+  - capstone
+  - yara
       .
       .
       .
