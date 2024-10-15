@@ -69,7 +69,7 @@ class Classifiers():
             print("test num %d pred y : %f"%(i, y_pred[i]))
             print("")
         
-        model.save('/home/jodaegeun/vaiscan-box-static-ai/models/saved_models/rlast_model.h5', overwrite=True, save_format="h5")
+        model.save('/last_model.h5', overwrite=True, save_format="h5")
 
 
     def do_SVC(self):
